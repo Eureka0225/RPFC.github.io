@@ -1,0 +1,27 @@
+### GENERAL SETTINGS ###
+
+# Site settings
+title: "Raspberry Pi Fans Club"
+brand: "树莓派爱好者基地"
+description: "树莓派爱好者基地"
+baseurl: "" #important: start with /
+url: "https://rpfc.github.io"
+
+# Build settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+    input: GFM
+    hard_wrap: false
+permalink: "/:categories/:year/:title/"
+excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
+highlighter: pygments
+
+sass:
+    sass_dir: assets/css
+future: true
+
+# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
+about: "树莓派爱好者基地,是由树莓派爱好者和开源软件爱好者、技术宅组成的团体。"
+
+include: ['_pages']

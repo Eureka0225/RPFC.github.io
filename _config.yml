@@ -5,7 +5,7 @@ title: "Raspberry Pi Fans Club"
 brand: "树莓派爱好者基地"
 description: "树莓派爱好者基地"
 baseurl: "" #important: start with /
-url: "https://rpfc.github.io"
+url: "http://raspifans.club"
 
 # Build settings
 highlighter: rouge

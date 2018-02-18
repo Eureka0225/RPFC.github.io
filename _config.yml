@@ -24,6 +24,8 @@ future: true
 
 # Search
 search: true
+# Swiftype Search Key
+swiftype_key: 4CFV9hBmH7pkyec_6ZCw
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "树莓派爱好者基地,是由树莓派爱好者和开源软件爱好者、技术宅组成的团体。<br>快加入树莓派爱好者大家庭吧这里有数千个树莓派爱好者在等你。这里汇集了各路大牛，初学者大家相互学习相互鼓励已经成为了一个有爱的大集体"

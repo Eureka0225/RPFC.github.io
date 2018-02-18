@@ -5,8 +5,7 @@ category: blog
 description: 使用python调用github v4 api
 author:     "bluebird"
 date:     2017-11-21
-categories:
-     - 编程技术
+编程技术
 thumb: https://avatars2.githubusercontent.com/u/31133259?s=400&v=4
 ---
 

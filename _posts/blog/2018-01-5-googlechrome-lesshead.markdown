@@ -6,7 +6,7 @@ category: blog
 subtitle:  使用谷歌浏览器的无头模式模拟访问
 author:     "bluebird"
 categories:
-     - 网络安全
+网络安全
 thumb: https://avatars2.githubusercontent.com/u/31133259?s=400&v=4
 ---
 ### 如何开始

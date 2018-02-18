@@ -6,7 +6,7 @@ category: blog
 subtitle: 蜜罐技术
 author:     "bluebird"
 categories:
-    - 网络安全
+网络安全
 thumb: https://avatars2.githubusercontent.com/u/31133259?s=400&v=4
 ---
 ## 前言

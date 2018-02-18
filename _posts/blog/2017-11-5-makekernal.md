@@ -6,7 +6,6 @@ author: GloomyGhost
 categories:
     - blog
     - kernel
-    - English
 permalink: /blog/2017/makekernal/
 thumb: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1509857576559&di=6b4047380b1ed0edf0ac9fe235c5175a&imgtype=0&src=http%3A%2F%2Fimg1.cache.netease.com%2Fcatchpic%2F2%2F27%2F27B5245545B5B78150F2F2F79ED334C2.jpg
 ---

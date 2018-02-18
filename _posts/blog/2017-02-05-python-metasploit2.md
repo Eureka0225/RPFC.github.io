@@ -6,7 +6,7 @@ category: blog
 subtitle: metasploit python 模块是如何运行
 author:     "bluebird"
 categories:
-    - 编程技术 
+编程技术 
 thumb: https://avatars2.githubusercontent.com/u/31133259?s=400&v=4 
 ---
 

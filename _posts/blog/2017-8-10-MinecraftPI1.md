@@ -23,6 +23,8 @@ thumb: http://ouav818sk.bkt.clouddn.com/mcpi-start.png
 
 ### 你会学到什么
 
+<!-- more -->
+
 通过使用您的Raspberry Pi，您将学习以下内容：
 
 + 如何访问Minecraft Pi并创建一个新的世界

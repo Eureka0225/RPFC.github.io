@@ -17,6 +17,8 @@ These are the release notes for Linux version 4.  Read them carefully,
 as they tell you what this is all about, explain how to install the
 kernel, and what to do if something goes wrong.
 
+<!-- more -->
+
 WHAT IS LINUX?
 
   Linux is a clone of the operating system Unix, written from scratch by

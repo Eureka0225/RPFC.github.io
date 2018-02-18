@@ -51,10 +51,131 @@
 							</article>
 
 						<!-- About -->
-							<article id="about">
-								<h2 class="major">投稿文章</h2>
-								<span class="image main"><img src="images/pic03.jpg" alt="" /></span>
-								<p></p>
+						<article id="about">
+							<h2 class="major">投稿文章</h2>
+							<span class="image main"><img src="images/pic01.jpg" alt="" /></span>
+							<p>请发邮件到GloomyGhost@fomail.com</p>
+							<p>许可：本网站所有未申明许可的均为："知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议"进行许可</p>
+							<a href="#howtodo" class="button special">学习写文章</a>
+								<p>
+						</article>
+
+							<article id="howtodo">
+								<h2 class="major">投稿文章的写法</h2>
+								<p><h2 id="如何开始">如何开始？</h2>
+								<p>树莓派爱好者基地的博客文章基于MakeDown格式编写</p>
+								<p>你的文件命名要严格遵循 <code>年-月-日-文章标题.md </code>这样的格式，尤其要注意月份和日期一定是两位数。</p>
+								<p>选择你的编辑器</p>
+
+								<ul>
+									<li>对于linux</li>
+								</ul>
+
+								<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>~$ vi [你的文件名].md
+</code></pre></div></div>
+
+								<p>PS.你也可以使用nano vim等文本编辑软件，在此不作限制。</p>
+								<ul>
+									<li>对于windows</li>
+								</ul>
+
+								<div class="highlighter-rouge"><div class="highlight"><pre class="highlight">
+									<code>打开记事本
+安装软件
+MarkdownPad OR MarkPad。
+</code></pre></div></div>
+
+								<h2 id="然后呢">然后呢？</h2>
+
+								<h3 id="标题党">标题</h3>
+
+								<p>标题是每篇文章都需要也是最常用的格式，在 Markdown 中，如果一段文字被定义为标题，只要在这段文字前加 # 号即可。</p>
+								<h1 id="一级标题">一级标题</h1>
+
+								<h2 id="二级标题">二级标题</h2>
+
+								<h3 id="三级标题">三级标题</h3>
+								<div class="highlighter-rouge"><div class="highlight"><pre class="highlight">
+									<code># 一级标题
+## 二级标题
+### 三级标题
+</code></pre></div></div>
+
+								<p>以此类推，总共六级标题，注意在井号后加一个空格，这是最标准的 Markdown 语法。</p>
+
+								<h3 id="列表">列表</h3>
+
+								<p>在 Markdown 下，列表的显示只需要在文字前加上 - 或 * 或 + 即可变为无序列表，有序列表则直接在文字前加 1. 2. 3. 符号要和文字之间加上一个字符的空格。</p>
+
+								<p>例如</p>
+
+								<ul>
+									<li>H1</li>
+									<li>H2</li>
+								</ul>
+
+								<div class="highlighter-rouge"><div class="highlight"><pre class="highlight">
+									<code>+ H1
++ H2
+</code></pre></div></div>
+
+								<h3 id="引用">引用</h3>
+
+								<p>如果你需要引用一小段别处的句子，那么就要用引用的格式。</p>
+
+								<blockquote>
+									<p>例如这样</p>
+								</blockquote>
+								<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>> 例如这样</code></pre></div></div>
+
+								<p>只需要在文本前加入 &gt; 这种尖括号（大于号）即可</p>
+
+								<h3 id="图片与链接">图片与链接</h3>
+
+								<p>插入链接与插入图片的语法很像，区别在一个 !号</p>
+
+								<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>插入图片：![xxx]http://xxx.xxx</code></pre></div></div>
+
+								<p>插入图片的地址需要图床,推荐图床：七牛云（10G免费空间）/腾讯云（50G免费空间）使用方法请看相关文档。</p>
+
+								<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>插入链接：[xxx]http://xxx.xxx</code></pre></div></div>
+
+								<p>粗体与斜体</p>
+
+								<p>Markdown 的粗体和斜体也非常简单，用两个 * 包含一段文本就是粗体的语法，用一个 * 包含一段文本就是斜体的语法。</p>
+
+								<p>例如：<strong>这里是粗体</strong> <em>这里是斜体</em></p>
+
+								<h3 id="代码框">代码框</h3>
+
+								<p>如果你需要在文章里引用代码，在 Markdown 下实现也非常简单，只需要用两个`号把中间的代码包裹起来，如 <code class="highlighter-rouge">code</code></p>
+
+								<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>`code`</code></pre></div></div>
+
+								<h3 id="分割线">分割线</h3>
+
+								<p>分割线的语法只需要另起一行，连续输入三个星号 *** 即可。</p>
+
+								<hr />
+								<p>会了把，这就是MD的基本语句</p>
+
+								<h2 id="标准格式">标准格式</h2>
+
+								<p>写MD博文的开头必须写上这样的，才能被引擎引索</p>
+
+								<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+
+---
+layout: post                           //必须写
+title: "Raspbian GUI图形配置"           //标题
+date: 2018-2-14                        //日期，与文件名相同
+author: GloomyGhost                    //作者
+thumb: https://i.imgur.com/FQZ5jVC.png //封面图片
+---
+博客内容
+                                </code></pre></div></div>
+
+								<p>好了，去撰写你的博客吧！</p></p>
 							</article>
 
 

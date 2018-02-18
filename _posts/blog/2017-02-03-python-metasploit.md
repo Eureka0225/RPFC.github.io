@@ -10,11 +10,11 @@ categories:
 thumb: https://avatars2.githubusercontent.com/u/31133259?s=400&v=4
 ---
 metasploit在2017年尾将python作为官方支持语言,并且已经有python模块加入主分支.这使得我们开发metasploit模块可以不去学习ruby
-
+<!-- more -->
 ### 为什么将python作为官方支持语言
 1. 很多不是metasploit官方人员编程的模块都是使用python编写
 2. 现在python流行程度非常高 很多渗透人员python熟练程度比ruby高
-<!-- more -->
+
 ### metasploit的python模块是什么
 主分支的一个python模块 https://github.com/rapid7/metasploit-framework/blob/778e69f92912c555e72bc3318278443126704b75/modules/auxiliary/dos/http/slowloris.py
 

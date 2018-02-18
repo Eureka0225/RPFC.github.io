@@ -12,7 +12,7 @@ thumb: https://avatars2.githubusercontent.com/u/31133259?s=400&v=4
 
 ## 开始
 metasploit的扩展实现的代码主要在`metasploit-framework/lib/msf/core/modules/external
-`
+<!-- more -->
 目录结构如下
 ~~~
 ├── bridge.rb

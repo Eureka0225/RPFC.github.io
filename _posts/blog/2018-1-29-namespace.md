@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "linux命名空间"
-date:     2018-1-17
+date:     2018-1-29
 category: blog
 subtitle: linux命名空间
 author:     "bluebird"
@@ -16,6 +16,7 @@ linux的namespace技术是一种隔离技术，docker就是通过应用namespace
 在历史中，linux的第一个进程是init，进程号为1.通过fork&exec的方式来产生子进程，而那些服务也就是由init进程来启动，从而形成基本的进程家族树。
 
 在linux我们可以使用`pstree -p`，就会显示进程树。
+<!-- more -->
 ~~~
 systemd(1)─┬─ModemManager(400)─┬─{ModemManager}(411)
            │                   └─{ModemManager}(414)
@@ -25,7 +26,7 @@ systemd(1)─┬─ModemManager(400)─┬─{ModemManager}(411)
            └─{NetworkManager}(450)
            ##### 省略
 ~~~
-<!-- more -->
+
 随着linux pid namespace的引入，我们可以另外创建一颗进程树。通过pid namespace 隔离，子名称空间中的进程无法知道父进程的存在。但是对父进程可见
 
 进行这个操作需要通过`clone()`来进行特殊的系统调用`CLONE_NEWPID`。

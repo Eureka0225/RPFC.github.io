@@ -10,12 +10,13 @@ categories:
 thumb: https://avatars2.githubusercontent.com/u/31133259?s=400&v=4
 ---
 此漏洞已经在最新版修复
+<!-- more -->
+
 ### exp
  ` /admin/app/physical/physical.php?action=op&op=3&valphy=test|文件名&address=包含文件`
  
 ### 代码分析
 
-<!-- more -->
 查看关键代码
 ```php
 case 3:

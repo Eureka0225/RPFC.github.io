@@ -27,8 +27,8 @@
       <file leaf-file-name="sidebar.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/sidebar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="12" lean-forward="false" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+            <state relative-caret-position="120">
+              <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -371,7 +371,8 @@
     <MESSAGE value="更改一个CSS" />
     <MESSAGE value="更改一个Link" />
     <MESSAGE value="更改一个Blog" />
-    <option name="LAST_COMMIT_MESSAGE" value="更改一个Blog" />
+    <MESSAGE value="汉化页面" />
+    <option name="LAST_COMMIT_MESSAGE" value="汉化页面" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -768,8 +769,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/sidebar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="12" lean-forward="false" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+        <state relative-caret-position="120">
+          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
           <folding />
         </state>
       </provider>

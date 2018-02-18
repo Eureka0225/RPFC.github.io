@@ -5,9 +5,10 @@ category: blog
 author:     "bluebird"
 date:     2017-11-25
 description: metinfo3.5.18后台getshell分析
-tags:
+categories:
     - web安全
     - 漏洞分析
+thumb: https://avatars2.githubusercontent.com/u/31133259?s=400&v=4
 ---
 此漏洞已经在最新版修复
 ### exp

@@ -5,8 +5,9 @@ date:     2018-1-17
 category: blog
 subtitle: linux命名空间
 author:     "bluebird"
-tags:
+categories:
     - 编程技术 
+thumb: https://avatars2.githubusercontent.com/u/31133259?s=400&v=4
 ---
 linux的namespace技术是一种隔离技术，docker就是通过应用namespace技术来实现在同一个系统运行不同的容器。
 

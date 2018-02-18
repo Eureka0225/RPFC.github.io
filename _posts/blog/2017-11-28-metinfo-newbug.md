@@ -5,9 +5,10 @@ author:     "bluebird"
 category: blog
 description: 我的第一个通用漏洞
 date:     2017-11-28 
-tags:
+categories:
     - web安全
     - 漏洞分析
+thumb: https://avatars2.githubusercontent.com/u/31133259?s=400&v=4
 ---
 ### metinfo后台getshellexp分析
 漏洞版本`3.5.19`  漏洞文件路径`/admin/app/physical/physical.php` 

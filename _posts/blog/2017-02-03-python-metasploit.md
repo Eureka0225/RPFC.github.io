@@ -5,8 +5,9 @@ date:     2018-2-02
 category: blog
 subtitle: metasploit python 模块
 author:     "bluebird"
-tags:
+categories:
     - 编程技术 
+thumb: https://avatars2.githubusercontent.com/u/31133259?s=400&v=4
 ---
 metasploit在2017年尾将python作为官方支持语言,并且已经有python模块加入主分支.这使得我们开发metasploit模块可以不去学习ruby
 

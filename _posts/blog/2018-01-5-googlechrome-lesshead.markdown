@@ -5,8 +5,9 @@ date:     2018-01-05
 category: blog
 subtitle:  使用谷歌浏览器的无头模式模拟访问
 author:     "bluebird"
-tags:
+categories:
      - 网络安全
+thumb: https://avatars2.githubusercontent.com/u/31133259?s=400&v=4
 ---
 ### 如何开始
 如果你是mac和linux需要版本59以上,window则需要60以上.然后运行

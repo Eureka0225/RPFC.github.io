@@ -1,12 +1,13 @@
 ---
 layout:     post
 title:      "python函数使用可变参数"
-tags:
+categories:
      - 编程技术    
 author:     "bluebird"
 category: blog
 date:     2017-11-9
 description: 写一个python项目时一不小心用了可变参数，发生严重bug，
+thumb: https://avatars2.githubusercontent.com/u/31133259?s=400&v=4
 ---
 当时写的代码大概是这样的
 ```python

@@ -5,8 +5,9 @@ date:     2018-1-17
 category: blog
 subtitle: 蜜罐技术
 author:     "bluebird"
-tags:
+categories:
     - 网络安全
+thumb: https://avatars2.githubusercontent.com/u/31133259?s=400&v=4
 ---
 ## 前言
 > 维基百科:蜜罐（英语：honeypot）是一个电脑术语，专指用来侦测或抵御未经授权操作或者是黑客攻击的陷阱，因原理类似诱捕昆虫的蜜罐因而得名。

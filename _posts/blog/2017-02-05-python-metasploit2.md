@@ -5,8 +5,9 @@ date:     2018-2-05
 category: blog
 subtitle: metasploit python 模块是如何运行
 author:     "bluebird"
-tags:
+categories:
     - 编程技术 
+thumb: https://avatars2.githubusercontent.com/u/31133259?s=400&v=4 
 ---
 
 ## 开始

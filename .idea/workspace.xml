@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="73cd2fa0-06b5-4394-bcdf-9c90d4a75f53" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_posts/blog/2017-08-19-java.md" afterPath="$PROJECT_DIR$/_posts/blog/2017-08-19-java.md" />
       <change beforePath="$PROJECT_DIR$/_posts/blog/2017-08-20-mconraspi2.md" afterPath="$PROJECT_DIR$/_posts/blog/2017-08-20-mconraspi2.md" />
-      <change beforePath="$PROJECT_DIR$/_posts/blog/2017-11-5-makekernal.md" afterPath="$PROJECT_DIR$/_posts/blog/2017-11-5-makekernal.md" />
-      <change beforePath="$PROJECT_DIR$/_posts/blog/2017-8-10-MinecraftPI1.md" afterPath="$PROJECT_DIR$/_posts/blog/2017-8-10-MinecraftPI1.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,12 +14,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="nav.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="nav.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/nav.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
               <caret line="19" column="58" lean-forward="false" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-08-20-mconraspi2.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/blog/2017-08-20-mconraspi2.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="450">
+                <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -138,9 +148,9 @@
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/pages/FeedBack/index.html" />
         <option value="$PROJECT_DIR$/_posts/blog/2017-11-5-makekernal.md" />
-        <option value="$PROJECT_DIR$/_posts/blog/2017-08-20-mconraspi2.md" />
         <option value="$PROJECT_DIR$/_posts/blog/2017-08-19-java.md" />
         <option value="$PROJECT_DIR$/_posts/blog/2017-8-10-MinecraftPI1.md" />
+        <option value="$PROJECT_DIR$/_posts/blog/2017-08-20-mconraspi2.md" />
       </list>
     </option>
   </component>
@@ -646,17 +656,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/blog/2017-08-20-mconraspi2.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="229">
-            <caret line="145" column="13" lean-forward="false" selection-start-line="145" selection-start-column="13" selection-end-line="145" selection-end-column="13" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/blog/2017-08-19-java.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -687,6 +686,17 @@
         <state relative-caret-position="285">
           <caret line="19" column="58" lean-forward="false" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/blog/2017-08-20-mconraspi2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="450">
+            <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

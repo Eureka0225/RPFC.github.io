@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="73cd2fa0-06b5-4394-bcdf-9c90d4a75f53" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/pages/FeedBack/index.html" afterPath="$PROJECT_DIR$/pages/FeedBack/index.html" />
+      <change beforePath="$PROJECT_DIR$/pages/FeedBack/images/bg.jpg" afterPath="$PROJECT_DIR$/pages/FeedBack/images/bg.jpg" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/_includes/footer.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="20" column="77" lean-forward="true" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
+              <caret line="20" column="77" lean-forward="false" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
               <folding />
             </state>
           </provider>
@@ -48,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/pages/FeedBack/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="311">
-              <caret line="1562" column="30" lean-forward="true" selection-start-line="1562" selection-start-column="30" selection-end-line="1562" selection-end-column="30" />
+              <caret line="1562" column="30" lean-forward="false" selection-start-line="1562" selection-start-column="30" selection-end-line="1562" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -58,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="647">
-              <caret line="50" column="37" lean-forward="true" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
+              <caret line="50" column="37" lean-forward="false" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -82,6 +82,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
     <option name="PUSH_TAGS">
       <GitPushTagMode>
         <option name="argument" value="--follow-tags" />
@@ -628,7 +629,7 @@
     <entry file="file://$PROJECT_DIR$/pages/FeedBack/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="311">
-          <caret line="1562" column="30" lean-forward="true" selection-start-line="1562" selection-start-column="30" selection-end-line="1562" selection-end-column="30" />
+          <caret line="1562" column="30" lean-forward="false" selection-start-line="1562" selection-start-column="30" selection-end-line="1562" selection-end-column="30" />
           <folding />
         </state>
       </provider>
@@ -636,7 +637,7 @@
     <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" column="77" lean-forward="true" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
+          <caret line="20" column="77" lean-forward="false" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
           <folding />
         </state>
       </provider>
@@ -652,7 +653,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="647">
-          <caret line="50" column="37" lean-forward="true" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
+          <caret line="50" column="37" lean-forward="false" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
           <folding />
         </state>
       </provider>

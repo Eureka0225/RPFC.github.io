@@ -6,7 +6,7 @@ author:     "bluebird"
 date:     2017-11-10
 description: javascript hook 技术
 categories:
-网络安全
+    - 网络安全
 thumb: https://avatars2.githubusercontent.com/u/31133259?s=400&v=4
 ---
 ###javascript hook 利用

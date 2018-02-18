@@ -2,7 +2,7 @@
 layout:     post
 title:      "python函数使用可变参数"
 categories:
-编程技术    
+    - 编程技术    
 author:     "bluebird"
 category: blog
 date:     2017-11-9

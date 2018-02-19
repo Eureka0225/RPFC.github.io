@@ -61,9 +61,12 @@ ul {
   padding-left: 1em;
 }
 
-p { 
-	padding: 0; 
-	margin-bottom: 12px; 
+p {
+	overflow: auto;
+	padding: 0;
+	word-break: break-all;
+	margin-bottom: 12px;
+	word-wrap: break-word;
 	font-weight: 400;
 	font-size: 14px; 
 	line-height: 24px;

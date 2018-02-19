@@ -18,11 +18,7 @@ $font_default: 'Lato', 'Heiti SC', 'Hiragino Sans GB', 'STHeiti', 'Source Han Sa
 @import "Lato";
 @import url("prettyPhoto.css") screen;
 @import url("hoverex-all.css") screen;
-@media (max-width: 767px) {
-  code {
-    overflow: auto;
-  }
-}
+
 
 /*	################################################################
 	1. GENERAL STRUCTURES
@@ -43,7 +39,12 @@ body {
 }
 
 code {
-  overflow: auto;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
 }
 
 h1, h2, h3, h4, h5, h6 {

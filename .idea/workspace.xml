@@ -1,63 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73cd2fa0-06b5-4394-bcdf-9c90d4a75f53" name="Default" comment="上传镜像">
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/css/font-awesome.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/css/ie8.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/css/ie9.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/css/main.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/fonts/FontAwesome.otf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/fonts/fontawesome-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/fonts/fontawesome-webfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/fonts/fontawesome-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/fonts/fontawesome-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/fonts/fontawesome-webfont.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/js/ie/html5shiv.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/js/ie/respond.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/js/jquery.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/js/main.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/js/skel.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/js/util.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/sass/base/_page.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/sass/base/_typography.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/sass/components/_box.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/sass/components/_button.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/sass/components/_form.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/sass/components/_icon.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/sass/components/_image.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/sass/components/_list.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/sass/components/_section.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/sass/components/_table.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/sass/components/_tiles.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/sass/ie8.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/sass/ie9.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/sass/layout/_footer.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/sass/layout/_header.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/sass/layout/_main.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/sass/layout/_menu.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/sass/layout/_wrapper.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/sass/libs/_functions.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/sass/libs/_mixins.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/sass/libs/_skel.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/sass/libs/_vars.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/assets/sass/main.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/elements.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/generic.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/images/libreelec.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/images/logo.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/images/noobs.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/images/osmc-1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/images/pic13.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/images/pic15.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/images/pinet.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/images/raspbian.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/images/riscos.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/images/ubuntu.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/images/unnamed.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/images/windows-10-iot.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/imgdown/pages/raspbian.html" />
+    <list default="true" id="73cd2fa0-06b5-4394-bcdf-9c90d4a75f53" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/pages/imgdown/index.html" afterPath="$PROJECT_DIR$/pages/imgdown/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -88,28 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/imgdown/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fontawesome-webfont.svg" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pages/imgdown/assets/fonts/fontawesome-webfont.svg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/FeedBack/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="200" column="0" lean-forward="false" selection-start-line="200" selection-start-column="0" selection-end-line="215" selection-end-column="41" />
+            <state relative-caret-position="390">
+              <caret line="26" column="107" lean-forward="false" selection-start-line="26" selection-start-column="107" selection-end-line="26" selection-end-column="107" />
               <folding />
             </state>
           </provider>
@@ -373,7 +302,7 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32914045" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914045" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914045" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -796,26 +725,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/imgdown/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25462">
-          <caret line="3313" column="0" lean-forward="true" selection-start-line="3313" selection-start-column="0" selection-end-line="3313" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/FeedBack/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="200" column="0" lean-forward="false" selection-start-line="200" selection-start-column="0" selection-end-line="215" selection-end-column="41" />
           <folding />
         </state>
       </provider>
@@ -828,10 +741,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/imgdown/index.html">
+    <entry file="file://$PROJECT_DIR$/pages/imgdown/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        <state relative-caret-position="200">
+          <caret line="625" column="8" lean-forward="false" selection-start-line="625" selection-start-column="8" selection-end-line="625" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/FeedBack/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="200" column="0" lean-forward="false" selection-start-line="200" selection-start-column="0" selection-end-line="215" selection-end-column="41" />
           <folding />
         </state>
       </provider>
@@ -839,6 +760,14 @@
     <entry file="file://$PROJECT_DIR$/pages/imgdown/assets/fonts/fontawesome-webfont.svg">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/imgdown/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="107" lean-forward="false" selection-start-line="26" selection-start-column="107" selection-end-line="26" selection-end-column="107" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>

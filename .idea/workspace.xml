@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="73cd2fa0-06b5-4394-bcdf-9c90d4a75f53" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_posts/blog/2018-2-14-rpigui.md" afterPath="$PROJECT_DIR$/_posts/blog/2018-2-14-rpigui.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/blog/2017-08-20-mconraspi2.md" afterPath="$PROJECT_DIR$/_posts/blog/2017-08-20-mconraspi2.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,12 +34,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-2-14-rpigui.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/blog/2018-2-14-rpigui.md">
+      <file leaf-file-name="2017-08-20-mconraspi2.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/blog/2017-08-20-mconraspi2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="720">
-                <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+              <first_editor relative-caret-position="814">
+                <caret line="191" column="3" lean-forward="false" selection-start-line="191" selection-start-column="3" selection-end-line="191" selection-end-column="3" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -168,7 +168,6 @@
         <option value="$PROJECT_DIR$/pages/FeedBack/assets/css/main.css" />
         <option value="$PROJECT_DIR$/pages/FeedBack/assets/sass/layout/_footer.scss" />
         <option value="$PROJECT_DIR$/_posts/blog/2017-8-10-MinecraftPI1.md" />
-        <option value="$PROJECT_DIR$/_posts/blog/2017-08-20-mconraspi2.md" />
         <option value="$PROJECT_DIR$/_posts/blog/2017-08-19-java.md" />
         <option value="$PROJECT_DIR$/_posts/blog/2017-11-5-makekernal.md" />
         <option value="$PROJECT_DIR$/_posts/blog/2017-10-14-nmap-1.md" />
@@ -198,6 +197,7 @@
         <option value="$PROJECT_DIR$/assets/css/style.scss" />
         <option value="$PROJECT_DIR$/_layouts/blog.html" />
         <option value="$PROJECT_DIR$/_posts/blog/2018-2-14-rpigui.md" />
+        <option value="$PROJECT_DIR$/_posts/blog/2017-08-20-mconraspi2.md" />
       </list>
     </option>
   </component>
@@ -466,13 +466,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_includes/sidebar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -860,6 +853,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/blog/2018-2-14-rpigui.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="780">
+            <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -868,11 +872,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/blog/2018-2-14-rpigui.md">
+    <entry file="file://$PROJECT_DIR$/_posts/blog/2017-08-20-mconraspi2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="720">
-            <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <first_editor relative-caret-position="814">
+            <caret line="191" column="3" lean-forward="false" selection-start-line="191" selection-start-column="3" selection-end-line="191" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />

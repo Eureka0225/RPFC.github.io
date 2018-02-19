@@ -64,11 +64,11 @@ del {
 
 img {
 	height: auto;
-	max-width: 100%;
+	max-width: auto;
 }
 
 iframe {
-	max-width: 100%;
+	max-width: auto;
 }
 
 a { 
@@ -264,7 +264,7 @@ a:focus {
     }
 
 		img.icon {
-			width: 100px;
+			width: auto;
 			height: 100px;
 		}
 }

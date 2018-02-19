@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="73cd2fa0-06b5-4394-bcdf-9c90d4a75f53" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/pages/imgdown/pages/raspbian.html" afterPath="$PROJECT_DIR$/pages/imgdown/pages/raspbian.html" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.scss" afterPath="$PROJECT_DIR$/assets/css/style.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,11 +54,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="raspbian.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="raspbian.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/imgdown/pages/raspbian.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="243">
               <caret line="25" column="42" lean-forward="false" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/css/style.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -103,7 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/assets/css/style.scss" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/_layouts/blog.html" />
         <option value="$PROJECT_DIR$/_layouts/events.html" />
@@ -142,6 +151,7 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/pages/imgdown/index.html" />
         <option value="$PROJECT_DIR$/pages/imgdown/pages/raspbian.html" />
+        <option value="$PROJECT_DIR$/assets/css/style.scss" />
       </list>
     </option>
   </component>
@@ -190,20 +200,13 @@
             <path>
               <item name="Raspberry" type="b2602c69:ProjectViewProjectNode" />
               <item name="Raspberry" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Raspberry" type="b2602c69:ProjectViewProjectNode" />
               <item name="Raspberry" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="imgdown" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Raspberry" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Raspberry" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="imgdown" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -471,13 +474,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4417">
-          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -791,6 +787,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="25" column="42" lean-forward="false" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
           <folding />
         </state>
       </provider>
